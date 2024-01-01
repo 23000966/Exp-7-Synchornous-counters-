@@ -1,10 +1,19 @@
 # Exp-6-Synchornous-counters - up counter and down counter 
-### AIM: To implement 4 bit up and down counters and validate  functionality.
-### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
-### SOFTWARE REQUIRED:   Quartus prime
-### THEORY 
+### AIM:
 
+To implement 4 bit up and down counters and validate  functionality.
+
+### HARDWARE REQUIRED: 
+
+– PC, Cyclone II , USB flasher
+
+### SOFTWARE REQUIRED: 
+
+Quartus prime
+
+### THEORY 
 ## UP COUNTER 
+
 The counter is a digital sequential circuit and here it is a 4 bit counter, which simply means it can count from 0 to 15 and vice versa based upon the direction of counting (up/down). 
 
 The counter (“count“) value will be evaluated at every positive (rising) edge of the clock (“clk“) cycle.
@@ -46,7 +55,18 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 4-bit Count Down Counter
 ### Procedure
-/* write all the steps invloved */
+
+1.Set the input as clock.
+
+2.Register the output of 4 bit.
+
+3.Use Posedge on the input clock.
+
+4.For Up counter use AND and OR gates to declare the value of each bit.
+
+5.For Down counter use AND, OR and NOT gates to declare the value of each bit.
+
+6.End the module.
 
 
 
@@ -64,6 +84,7 @@ RegisterNumber:23000966
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
+![image](https://github.com/23000966/Exp-7-Synchornous-counters-/assets/153983364/e3bfdb2a-215a-4934-b877-13631a6a307c)
 
 
 
