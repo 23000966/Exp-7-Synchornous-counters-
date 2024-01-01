@@ -86,24 +86,22 @@ RegisterNumber:23000966
 
 ![image](https://github.com/23000966/Exp-7-Synchornous-counters-/assets/153983364/e3bfdb2a-215a-4934-b877-13631a6a307c)
 
-
-
-
-
-
+![image](https://github.com/23000966/Exp-7-Synchornous-counters-/assets/153983364/72794506-d8c2-4100-8991-d8af4fd29a51)
 
 
 ### TIMING DIGRAMS FOR COUNTER  
 
+![image](https://github.com/23000966/Exp-7-Synchornous-counters-/assets/153983364/8312dd61-a691-4548-b00b-3d49a062544a)
 
-
+![image](https://github.com/23000966/Exp-7-Synchornous-counters-/assets/153983364/04609435-53da-413d-bf40-ed8d6bfe18d5)
 
 
 ### TRUTH TABLE 
 
+![image](https://github.com/23000966/Exp-7-Synchornous-counters-/assets/153983364/cf28049f-0e06-4db7-a3ee-e0079b60a862)
 
-
-
+![image](https://github.com/23000966/Exp-7-Synchornous-counters-/assets/153983364/5fd66e9f-d01d-4dd8-8749-5eea1e8b2c46)
 
 
 ### RESULTS 
+Thus the program has been edxecuted successfully.
